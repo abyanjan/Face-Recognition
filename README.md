@@ -1,6 +1,7 @@
 # Face-Recognition
 
 Performing Face Recognition on 10 Poplular Mens and Womens Tennis Players with OpennCv and Python.
+The Players lists includes Andy Murray, Rodger Federrer, Rafael Nadal, Dominic Thiem, Novak Djokovic, Serena Williams, Naomi Osaka, Petra Kivitova, Simona Halep, Ashleigh Barty
 
 To perform the main face recognition task, [face_recognition](https://github.com/ageitgey/face_recognition) library is used.
 
@@ -10,5 +11,11 @@ A great tutorial on performing face recognition can be found at [pyimagesearch](
 
 **Some Results**  
 
+
+<img src="https://github.com/abyanjan/Face-Recognition/blob/master/result_1.JPG" width="500" height="300"> 
+
+<img src="https://github.com/abyanjan/Face-Recognition/blob/master/result_2.JPG" width="500" height="300"> 
+
+<img src="https://github.com/abyanjan/Face-Recognition/blob/master/result_3.JPG" width="500" height="300"> 
 
 
