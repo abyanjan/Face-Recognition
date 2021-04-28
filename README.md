@@ -5,7 +5,7 @@ The Players lists includes Andy Murray, Rodger Federrer, Rafael Nadal, Dominic T
 
 To perform the main face recognition task, [face_recognition](https://github.com/ageitgey/face_recognition) library is used.
 
-face_recognition library provides simple methods to recognize and manipulate faces with pytho. It is built using [dlib's](http://dlib.net/) state-of-the-art face recognition built with deep learning.
+face_recognition library provides simple methods to recognize and manipulate faces with python. It is built using [dlib's](http://dlib.net/) state-of-the-art face recognition built with deep learning.
 
 A great tutorial on performing face recognition can be found at [pyimagesearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/), and this repo is based on the same blog post.
 
